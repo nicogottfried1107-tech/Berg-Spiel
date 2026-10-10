@@ -3,12 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Bush
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Bush
   - Water
   - UI
   - Ground
@@ -38,6 +39,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Water
+    uniqueID: 1864132527
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

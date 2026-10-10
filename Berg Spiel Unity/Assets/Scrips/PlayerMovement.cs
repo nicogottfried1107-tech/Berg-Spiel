@@ -4,7 +4,8 @@ public class PlayerMovement : MonoBehaviour
 {
     public float jumpForce = 12f;
     public float movementForce =9f;
-    
+    public float bounceFactor = 10f;
+
     public float fallMultiplier = 3.0f;
     
     //Ground Check
@@ -16,8 +17,10 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
 
+    private bool isKnockedBack = false;
 
-void Start()
+
+    void Start()
     {
         rb = GetComponent<Rigidbody2D>();
     }
@@ -37,9 +40,11 @@ void Start()
             groundLayer
         );
 
-        float RichtungX = Input.GetAxis("Horizontal");
-        // X-Bewegung
-        rb.linearVelocity = new Vector2(RichtungX * movementForce, rb.linearVelocity.y);
+        if (!isKnockedBack)
+        {
+            float RichtungX = Input.GetAxis("Horizontal");
+            rb.linearVelocity = new Vector2(RichtungX * movementForce, rb.linearVelocity.y);
+        }
 
         // Springen
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
@@ -56,11 +61,34 @@ void Start()
                 * Time.deltaTime;
         }
 
+        // Flip the player sprite based on movement direction
+        if (rb.linearVelocity.x < 0)
+        {
+
+            transform.localScale = new Vector3(-1, 1, 1);
 
 
-
-
+        }
+        else if (rb.linearVelocity.x > 0)
+        {
+            transform.localScale = new Vector3(1, 1, 1);
+        }
     }
 
+    public void BackBounceBush(Transform bush)
+    {
+        isKnockedBack = true;
 
+        Vector2 direction = (transform.position - bush.position).normalized;
+
+        rb.linearVelocity = Vector2.zero;
+        rb.AddForce(direction * bounceFactor, ForceMode2D.Impulse);
+
+        Invoke(nameof(EndKnockback), 0.2f);
+    }
+
+    private void EndKnockback()
+    {
+        isKnockedBack = false;
+    }
 }

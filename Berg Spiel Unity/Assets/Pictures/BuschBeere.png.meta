@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8fe5687f5b005624aa6059e8c72ca78d
+guid: b49d95c110fbbb144b504a5e0fb76c8c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1346899859862801000
-    second: buschbeere_0
+      213: 5116267713183593609
+    second: BuschBeere_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: buschbeere_0
+      name: BuschBeere_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 512
-        height: 512
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 895bad0b6b9de4de0800000000000000
-      internalID: -1346899859862801000
+      spriteID: 984bb14c062a00740800000000000000
+      internalID: 5116267713183593609
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      buschbeere_0: -1346899859862801000
+      BuschBeere_0: 5116267713183593609
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

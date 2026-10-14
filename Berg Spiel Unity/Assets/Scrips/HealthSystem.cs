@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class HealthSystem : MonoBehaviour
 {
     int life = 3;
-    public BoxCollider2D playerCollider;
+    public CapsuleCollider2D playerCollider;
 
     public PlayerMovement playerMovement;
 

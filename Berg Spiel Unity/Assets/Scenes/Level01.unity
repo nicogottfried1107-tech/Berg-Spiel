@@ -256,9 +256,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51b608ef023184a4fb4b928659567b35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  jumpForce: 12
-  movementForce: 9
-  bounceFactor: 15.91
+  jumpForce: 8.52
+  movementForce: 4.35
+  bounceFactor: 7.5
   fallMultiplier: 3
   groundCheck: {fileID: 889563516}
   groundCheckRadius: 0.2
@@ -326,7 +326,7 @@ Animator:
   m_GameObject: {fileID: 33386419}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1564563f7ad8ea94e89c0f772c26a329, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

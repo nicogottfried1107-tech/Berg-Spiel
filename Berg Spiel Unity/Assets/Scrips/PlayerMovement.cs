@@ -101,7 +101,14 @@ public class PlayerMovement : MonoBehaviour
             Debug.Log("Ist: " + anim.GetBool("IsRunning"));
         }
 
-
+        if (isGrounded == false)
+        {
+            anim.SetBool("IsJumping", true);
+        }
+        else
+        {
+            anim.SetBool("IsJumping", false);
+        }
 
 
     }

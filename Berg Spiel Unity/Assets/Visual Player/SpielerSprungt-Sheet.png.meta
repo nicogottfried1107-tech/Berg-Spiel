@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 4b7783540b343dd48bfd1809d2e662a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7628636632731573573
+    second: SpielerSprungt-Sheet_0
+  - first:
+      213: -264152520280395667
+    second: SpielerSprungt-Sheet_1
+  - first:
+      213: -1959820500475191299
+    second: SpielerSprungt-Sheet_2
+  - first:
+      213: 3417841216331286969
+    second: SpielerSprungt-Sheet_3
+  - first:
+      213: 1071043217688758810
+    second: SpielerSprungt-Sheet_4
+  - first:
+      213: -2734296799992239731
+    second: SpielerSprungt-Sheet_5
+  - first:
+      213: 8997503283111587440
+    second: SpielerSprungt-Sheet_6
+  - first:
+      213: -8576008412580134592
+    second: SpielerSprungt-Sheet_7
+  - first:
+      213: -8085881749136300972
+    second: SpielerSprungt-Sheet_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d5f76699c5ed960800000000000000
+      internalID: 7628636632731573573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b92eaeaa855cf0800000000000000
+      internalID: -264152520280395667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd5ad63a15dc4e0800000000000000
+      internalID: -1959820500475191299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b98d1e4a7c9e6f20800000000000000
+      internalID: 3417841216331286969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a0e61c12c1dde00800000000000000
+      internalID: 1071043217688758810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89a9fd1c83dd0ad0800000000000000
+      internalID: -2734296799992239731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee64fa09d8ddc70800000000000000
+      internalID: 8997503283111587440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041466159c5ebf880800000000000000
+      internalID: -8576008412580134592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpielerSprungt-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454aae6d36d29cf80800000000000000
+      internalID: -8085881749136300972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpielerSprungt-Sheet_0: 7628636632731573573
+      SpielerSprungt-Sheet_1: -264152520280395667
+      SpielerSprungt-Sheet_2: -1959820500475191299
+      SpielerSprungt-Sheet_3: 3417841216331286969
+      SpielerSprungt-Sheet_4: 1071043217688758810
+      SpielerSprungt-Sheet_5: -2734296799992239731
+      SpielerSprungt-Sheet_6: 8997503283111587440
+      SpielerSprungt-Sheet_7: -8576008412580134592
+      SpielerSprungt-Sheet_8: -8085881749136300972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

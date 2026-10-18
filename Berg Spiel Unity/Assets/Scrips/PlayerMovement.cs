@@ -52,6 +52,8 @@ public class PlayerMovement : MonoBehaviour
                 groundLayer
             );
 
+        
+
             // Bewegungsrichtung einmal ermitteln
             float RichtungX = Input.GetAxis("Horizontal");
 
@@ -63,16 +65,31 @@ public class PlayerMovement : MonoBehaviour
                 );
             }
 
-            // Springen
-            if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
-            {
-                rb.linearVelocity = new Vector2(
-                    rb.linearVelocity.x, jumpForce
-                );
-            }
 
-            // Schnelleres Fallen
-            if (rb.linearVelocity.y < 0)
+
+        // Springen
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        {
+            rb.linearVelocity = new Vector2(
+                rb.linearVelocity.x,
+                jumpForce
+            );
+
+            anim.SetBool("IsJumping", true);
+        }
+
+        // Sprunganimation beim Landen beenden
+        if (isGrounded && rb.linearVelocity.y <= 0)
+        {
+            anim.SetBool("IsJumping", false);
+        }
+
+
+
+
+
+        // Schnelleres Fallen
+        if (rb.linearVelocity.y < 0)
             {
                 rb.linearVelocity += Vector2.up
                     * Physics2D.gravity.y
@@ -97,18 +114,10 @@ public class PlayerMovement : MonoBehaviour
 
             anim.SetBool("IsRunning", laeuft);
 
-            Debug.Log("Soll: " + laeuft);
-            Debug.Log("Ist: " + anim.GetBool("IsRunning"));
+            
         }
 
-        if (isGrounded == false)
-        {
-            anim.SetBool("IsJumping", true);
-        }
-        else
-        {
-            anim.SetBool("IsJumping", false);
-        }
+       
 
 
     }

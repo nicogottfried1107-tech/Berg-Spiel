@@ -16,6 +16,9 @@ public class DeathScreenManager : MonoBehaviour
     {
         Instance = this;
         Time.timeScale = 1f;
+
+        if (deathScreen != null)
+            deathScreen.SetActive(false);
     }
 
     public void StartDeathSequence(GameObject player, Animator animator)
@@ -28,44 +31,64 @@ public class DeathScreenManager : MonoBehaviour
 
     private IEnumerator DeathSequence(GameObject player, Animator animator)
     {
-        // Spielerbewegung und Kollisionen stoppen
+        // Normale Bewegung stoppen
         PlayerMovement movement = player.GetComponent<PlayerMovement>();
+
         if (movement != null)
             movement.enabled = false;
 
-        Collider2D[] colliders = player.GetComponents<Collider2D>();
-        foreach (Collider2D col in colliders)
-            col.enabled = false;
+        // Bewegung stoppen, normale Physik beibehalten
+        Rigidbody2D rb = player.GetComponent<Rigidbody2D>();
 
-        // Death-Animation abspielen
-        if (animator != null)
-            animator.Play("Player_Death", 0, 0f);
-
-        // Auf das Ende der Animation warten
-        if (animator != null)
+        if (rb != null)
         {
-            yield return null;
-            yield return new WaitUntil(
-                () => animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Death")
-            );
-
-            yield return new WaitForSeconds(
-                animator.GetCurrentAnimatorStateInfo(0).length
-            );
+            rb.linearVelocity = Vector2.zero;
+            rb.angularVelocity = 0f;
+            rb.bodyType = RigidbodyType2D.Dynamic;
+            rb.gravityScale = 3f;
         }
 
-        // Spieler verschwinden lassen
+        // Todesanimation abspielen
+        if (animator != null)
+        {
+            animator.Play("Player_Death", 0, 0f);
+            animator.Update(0f);
+
+            // Warten, bis der Death-Animationszustand erreicht ist
+            yield return new WaitUntil(() =>
+                animator.GetCurrentAnimatorStateInfo(0)
+                .IsName("Player_Death")
+            );
+
+            // Tatsächliche Animationsdauer abwarten
+            float duration =
+                animator.GetCurrentAnimatorStateInfo(0).length;
+
+            yield return new WaitForSeconds(duration);
+        }
+
+        // Spieler ausblenden
         player.SetActive(false);
 
         // Death Screen anzeigen
-        deathScreen.SetActive(true);
+        if (deathScreen != null)
+        {
+            deathScreen.SetActive(true);
+        }
+        else
+        {
+            Debug.LogError("Death Screen ist nicht zugewiesen!");
+        }
+
         Time.timeScale = 0f;
     }
 
     public void RetryLevel()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene(
+            SceneManager.GetActiveScene().buildIndex
+        );
     }
 
     public void GoToMainMenu()

@@ -140,12 +140,12 @@ TextureImporter:
       name: DeathSheet_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 10
         y: 0
-        width: 46
-        height: 61
+        width: 44
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -165,9 +165,9 @@ TextureImporter:
         x: 74
         y: 0
         width: 46
-        height: 59
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -186,10 +186,10 @@ TextureImporter:
         serializedVersion: 2
         x: 139
         y: 0
-        width: 45
-        height: 57
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -208,10 +208,10 @@ TextureImporter:
         serializedVersion: 2
         x: 204
         y: 0
-        width: 45
-        height: 55
+        width: 46
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -231,9 +231,9 @@ TextureImporter:
         x: 267
         y: 0
         width: 48
-        height: 50
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -253,9 +253,9 @@ TextureImporter:
         x: 327
         y: 0
         width: 52
-        height: 39
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -275,9 +275,9 @@ TextureImporter:
         x: 388
         y: 0
         width: 57
-        height: 27
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -297,9 +297,9 @@ TextureImporter:
         x: 451
         y: 0
         width: 59
-        height: 31
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -319,9 +319,9 @@ TextureImporter:
         x: 514
         y: 0
         width: 61
-        height: 31
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -334,11 +334,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: DeathSheet_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021b7ff3243615478f2f1b586ddc520
+      internalID: 426344000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 796118bd4354cdb43816dc2294b5a272
     internalID: 0
     vertices: []
     indices: 
@@ -357,6 +379,7 @@ TextureImporter:
       DeathSheet_6: 5276413952979918953
       DeathSheet_7: -510629904370378039
       DeathSheet_8: 5611027400236515277
+      DeathSheet_9: 426344000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

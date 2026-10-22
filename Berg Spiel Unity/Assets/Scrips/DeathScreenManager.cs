@@ -67,8 +67,15 @@ public class DeathScreenManager : MonoBehaviour
             yield return new WaitForSeconds(duration);
         }
 
-        // Spieler ausblenden
-        player.SetActive(false);
+
+        // Spieler-Sprites ausblenden, GameObject bleibt aktiv
+        SpriteRenderer[] sprites =
+            player.GetComponentsInChildren<SpriteRenderer>();
+
+        foreach (SpriteRenderer sprite in sprites)
+        {
+            sprite.enabled = false;
+        }
 
         // Death Screen anzeigen
         if (deathScreen != null)
@@ -81,6 +88,7 @@ public class DeathScreenManager : MonoBehaviour
         }
 
         Time.timeScale = 0f;
+
     }
 
     public void RetryLevel()

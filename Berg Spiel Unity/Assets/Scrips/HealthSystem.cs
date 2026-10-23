@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HealthSystem : MonoBehaviour
 {
-    int life = 3;
+    public int life = 3;
 
     public CapsuleCollider2D playerCollider;
     public PlayerMovement playerMovement;
@@ -13,6 +13,8 @@ public class HealthSystem : MonoBehaviour
     private bool istTot = false;
 
     public Animator playerAnimator;
+
+    public HealthBar healthBar;
 
     IEnumerator DamageCooldown()
     {
@@ -28,14 +30,7 @@ public class HealthSystem : MonoBehaviour
         if (playerCollider.IsTouchingLayers(LayerMask.GetMask("Water"))
             && kannSchadenErhalten)
         {
-            life--;
-            Debug.Log("Player Life: " + life);
-
-            if (life <= 0)
-            {
-                Sterben();
-                return;
-            }
+            TakeDamage();
 
             StartCoroutine(DamageCooldown());
         }
@@ -47,15 +42,7 @@ public class HealthSystem : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Bush"))
         {
-            life--;
-            Debug.Log("Player Life: " + life);
-
-            if (life <= 0)
-            {
-                Sterben();
-                return;
-            }
-
+            TakeDamage();
             playerMovement.BackBounceBush(collision.transform);
         }
     }
@@ -77,6 +64,23 @@ public class HealthSystem : MonoBehaviour
         else
         {
             Debug.LogError("DeathScreenManager wurde nicht gefunden!");
+        }
+    }
+
+    public void TakeDamage()
+    {
+        if (istTot) return;
+
+        life--;
+        Debug.Log("Player Life: " + life);
+
+        healthBar.PlayDamageAnimation(life);
+        CameraShake.Instance.Shake(0.12f, 0.15f);
+
+        if (life <= 0)
+        {
+            Sterben();
+            return;
         }
     }
 }

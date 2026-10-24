@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 13f75bd85d90fbc4f8d3d83197d2a05a
+guid: b1c6a2eb6e8a71946a9bc1994d0dda41
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2881210887924355917
-    second: ziege_0
+      213: -485747386024734929
+    second: BackgroundHealthBar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ziege_0
+      name: BackgroundHealthBar_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 500
-        height: 500
+        y: 1
+        width: 41
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4318b9890e1cf720800000000000000
-      internalID: 2881210887924355917
+      spriteID: f2fcb6573574249f0800000000000000
+      internalID: -485747386024734929
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ziege_0: 2881210887924355917
+      BackgroundHealthBar_0: -485747386024734929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -16,6 +16,8 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded;
 
     private Rigidbody2D rb;
+    private Transform bootParent;
+    private Transform aktuellePlattform;
 
     private bool isKnockedBack = false;
 
@@ -137,5 +139,32 @@ public class PlayerMovement : MonoBehaviour
     private void EndKnockback()
     {
         isKnockedBack = false;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Boat"))
+        {
+            foreach (ContactPoint2D contact in collision.contacts)
+            {
+                // Nur koppeln, wenn der Spieler von oben landet
+                if (contact.normal.y > 0.5f)
+                {
+                    aktuellePlattform = collision.transform;
+                    transform.SetParent(aktuellePlattform);
+                    break;
+                }
+            }
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (aktuellePlattform != null &&
+            collision.transform == aktuellePlattform)
+        {
+            transform.SetParent(null);
+            aktuellePlattform = null;
+        }
     }
 }

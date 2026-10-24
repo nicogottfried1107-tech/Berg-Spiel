@@ -50,4 +50,34 @@ public class HealthBar : MonoBehaviour
 
         lifeImage.sprite = lifeEmpty;
     }
+
+    public void ShowAllLivesEmpty()
+    {
+        StopAllCoroutines();
+
+        life1.sprite = lifeEmpty;
+        life2.sprite = lifeEmpty;
+        life3.sprite = lifeEmpty;
+    }
+
+    public void PlayInstantDeathAnimation()
+    {
+        StopAllCoroutines();
+        StartCoroutine(FlashAllLives());
+    }
+
+    private IEnumerator FlashAllLives()
+    {
+        life1.sprite = lifeFlash;
+        life2.sprite = lifeFlash;
+        life3.sprite = lifeFlash;
+
+        yield return new WaitForSeconds(0.3f);
+
+        life1.sprite = lifeEmpty;
+        life2.sprite = lifeEmpty;
+        life3.sprite = lifeEmpty;
+    }
+
+
 }

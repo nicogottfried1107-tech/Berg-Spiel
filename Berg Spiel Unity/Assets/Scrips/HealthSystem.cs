@@ -83,4 +83,29 @@ public class HealthSystem : MonoBehaviour
             return;
         }
     }
+
+    public void InstantDeath()
+    {
+        if (istTot) return;
+
+        life = 0;
+        Debug.Log("Sofortiger Tod durch Objekt!");
+
+        healthBar.PlayInstantDeathAnimation();
+
+        Sterben();
+    }
+
+    public void TakeGoatDamage(Transform goat)
+    {
+        if (istTot || !kannSchadenErhalten) return;
+
+        TakeDamage();
+        StartCoroutine(DamageCooldown());
+
+        if (!istTot)
+        {
+            playerMovement.BackBounceBush(goat);
+        }
+    }
 }

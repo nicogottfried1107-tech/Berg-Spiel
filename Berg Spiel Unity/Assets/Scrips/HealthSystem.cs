@@ -16,6 +16,8 @@ public class HealthSystem : MonoBehaviour
 
     public HealthBar healthBar;
 
+    public GameTimer gameTimer;
+
     IEnumerator DamageCooldown()
     {
         kannSchadenErhalten = false;
@@ -47,12 +49,24 @@ public class HealthSystem : MonoBehaviour
         }
     }
 
+
     private void Sterben()
     {
         if (istTot) return;
 
         istTot = true;
         Debug.Log("Spieler ist gestorben!");
+
+        if (gameTimer != null)
+        {
+            gameTimer.StopTimer();
+        }
+        else
+        {
+            Debug.LogError(
+                "GameTimer wurde nicht im Inspector zugewiesen!"
+            );
+        }
 
         if (DeathScreenManager.Instance != null)
         {
@@ -66,6 +80,7 @@ public class HealthSystem : MonoBehaviour
             Debug.LogError("DeathScreenManager wurde nicht gefunden!");
         }
     }
+
 
     public void TakeDamage()
     {

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 778ea87da4f2334418b84bd3ab205814
+guid: 8ae005f957ceb2a48a36705e2ef916c5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7557348819460391450
-    second: Start_Screen11_0
+      213: -7015259184876458213
+    second: ButtonRangliste_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Start_Screen11_0
+      name: ButtonRangliste_0
       rect:
         serializedVersion: 2
-        x: 7
+        x: 0
         y: 0
-        width: 454
-        height: 528
+        width: 441
+        height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ed785c0a47ee1790800000000000000
-      internalID: -7557348819460391450
+      spriteID: b1f642690fac4ae90800000000000000
+      internalID: -7015259184876458213
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Start_Screen11_0: -7557348819460391450
+      ButtonRangliste_0: -7015259184876458213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

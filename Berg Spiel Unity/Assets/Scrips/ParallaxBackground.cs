@@ -6,7 +6,7 @@ public class ParallaxBackground : MonoBehaviour
     [Header("Einstellungen")]
     public Transform cam;
 
-    [Range(0f, 1f)]
+    
     public float parallaxEffect = 0.2f;
 
     private Vector3 startPosition;

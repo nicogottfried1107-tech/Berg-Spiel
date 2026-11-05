@@ -24,6 +24,8 @@ public class PlayerMovement : MonoBehaviour
     //Animator
     private Animator anim;
 
+    private bool hasJumped = false;
+
 
     void Start()
     {
@@ -59,25 +61,37 @@ public class PlayerMovement : MonoBehaviour
             // Bewegungsrichtung einmal ermitteln
             float RichtungX = Input.GetAxis("Horizontal");
 
-            if (!isKnockedBack)
+        
+
+
+        if (!isKnockedBack)
             {
                 rb.linearVelocity = new Vector2(
                     RichtungX * movementForce,
                     rb.linearVelocity.y
                 );
-            }
+           
+        }
 
 
 
+       
         // Springen
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded && !hasJumped)
         {
+            hasJumped = true;
+
             rb.linearVelocity = new Vector2(
                 rb.linearVelocity.x,
                 jumpForce
             );
 
             anim.SetBool("IsJumping", true);
+        }
+        // Nach dem Landen wieder springen erlauben
+        if (isGrounded && rb.linearVelocity.y <= 0)
+        {
+            hasJumped = false;
         }
 
         // Sprunganimation beim Landen beenden
@@ -119,7 +133,7 @@ public class PlayerMovement : MonoBehaviour
             
         }
 
-       
+        
 
 
     }

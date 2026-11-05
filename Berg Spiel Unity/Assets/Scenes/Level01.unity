@@ -386,7 +386,7 @@ Transform:
   m_GameObject: {fileID: 33386419}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.785, y: -1.546, z: 0}
+  m_LocalPosition: {x: -8.852, y: -1.543, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -406,8 +406,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51b608ef023184a4fb4b928659567b35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  jumpForce: 8.52
-  movementForce: 0.1
+  jumpForce: 6.6
+  movementForce: 3.68
   bounceFactor: 7.5
   fallMultiplier: 3
   groundCheck: {fileID: 889563516}
@@ -2385,7 +2385,7 @@ Transform:
   m_GameObject: {fileID: 889563515}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.29, y: -1.84, z: 0}
+  m_LocalPosition: {x: 0.00318, y: -0.29612, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

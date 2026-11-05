@@ -1,4 +1,3 @@
-
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
@@ -11,6 +10,7 @@ public class DeathScreenManager : MonoBehaviour
     [SerializeField] private GameObject deathScreen;
 
     private bool isDead = false;
+    private bool canRetry = false;
 
     private void Awake()
     {
@@ -19,6 +19,14 @@ public class DeathScreenManager : MonoBehaviour
 
         if (deathScreen != null)
             deathScreen.SetActive(false);
+    }
+
+    private void Update()
+    {
+        if (canRetry && Input.GetKeyDown(KeyCode.Space))
+        {
+            RetryLevel();
+        }
     }
 
     public void StartDeathSequence(GameObject player, Animator animator)
@@ -56,21 +64,17 @@ public class DeathScreenManager : MonoBehaviour
 
             // Warten, bis der Death-Animationszustand erreicht ist
             yield return new WaitUntil(() =>
-                animator.GetCurrentAnimatorStateInfo(0)
-                .IsName("Player_Death")
+                animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Death")
             );
 
             // Tatsächliche Animationsdauer abwarten
-            float duration =
-                animator.GetCurrentAnimatorStateInfo(0).length;
+            float duration = animator.GetCurrentAnimatorStateInfo(0).length;
 
             yield return new WaitForSeconds(duration);
         }
 
-
-        // Spieler-Sprites ausblenden, GameObject bleibt aktiv
-        SpriteRenderer[] sprites =
-            player.GetComponentsInChildren<SpriteRenderer>();
+        // Spieler-Sprites ausblenden
+        SpriteRenderer[] sprites = player.GetComponentsInChildren<SpriteRenderer>();
 
         foreach (SpriteRenderer sprite in sprites)
         {
@@ -81,6 +85,7 @@ public class DeathScreenManager : MonoBehaviour
         if (deathScreen != null)
         {
             deathScreen.SetActive(true);
+            canRetry = true;
         }
         else
         {
@@ -88,19 +93,18 @@ public class DeathScreenManager : MonoBehaviour
         }
 
         Time.timeScale = 0f;
-
     }
 
     public void RetryLevel()
     {
+        canRetry = false;
         Time.timeScale = 1f;
-        SceneManager.LoadScene(
-            SceneManager.GetActiveScene().buildIndex
-        );
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void GoToMainMenu()
     {
+        canRetry = false;
         Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");
     }

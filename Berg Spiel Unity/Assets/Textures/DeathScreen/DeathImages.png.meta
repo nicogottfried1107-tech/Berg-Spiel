@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 26ddbf0075fd2fc41914a7e80c827461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1659938056659915809
+    second: DeathImages_0
+  - first:
+      213: 4325575549216266059
+    second: DeathImages_1
+  - first:
+      213: 2207651419875568134
+    second: DeathImages_2
+  - first:
+      213: 1972779834662588776
+    second: DeathImages_3
+  - first:
+      213: 718867826646139673
+    second: DeathImages_4
+  - first:
+      213: -4730553707746755480
+    second: DeathImages_5
+  - first:
+      213: -6700277897294459498
+    second: DeathImages_6
+  - first:
+      213: 1515006229115537387
+    second: DeathImages_7
+  - first:
+      213: 1445290661374285113
+    second: DeathImages_8
+  - first:
+      213: -5353401244788993440
+    second: DeathImages_9
+  - first:
+      213: -249063603370502252
+    second: DeathImages_10
+  - first:
+      213: -6299152123348784544
+    second: DeathImages_11
+  - first:
+      213: -7270649007382079252
+    second: DeathImages_12
+  - first:
+      213: -1837030305707542634
+    second: DeathImages_13
+  - first:
+      213: 3073993729582420832
+    second: DeathImages_14
+  - first:
+      213: -8183714335630102111
+    second: DeathImages_15
+  - first:
+      213: -3851000389271863056
+    second: DeathImages_16
+  - first:
+      213: -8705494379403971000
+    second: DeathImages_17
+  - first:
+      213: -488164258613328393
+    second: DeathImages_18
+  - first:
+      213: -4594266971495877439
+    second: DeathImages_19
+  - first:
+      213: -2484269556223580738
+    second: DeathImages_20
+  - first:
+      213: -9114049503782065067
+    second: DeathImages_21
+  - first:
+      213: -1428975776084225763
+    second: DeathImages_22
+  - first:
+      213: 7016824693743215412
+    second: DeathImages_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathImages_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 434
+        width: 1159
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124dd582ed8490710800000000000000
+      internalID: 1659938056659915809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathImages_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 224
+        width: 1156
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fe71cb2b9d6e80800000000000000
+      internalID: -8183714335630102111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathImages_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2
+        width: 1152
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55caebdb344648180800000000000000
+      internalID: -9114049503782065067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b519a04d12abf3f40aa0c90af4eaa5f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DeathImages_0: 1659938056659915809
+      DeathImages_1: 4325575549216266059
+      DeathImages_10: -249063603370502252
+      DeathImages_11: -6299152123348784544
+      DeathImages_12: -7270649007382079252
+      DeathImages_13: -1837030305707542634
+      DeathImages_14: 3073993729582420832
+      DeathImages_15: -8183714335630102111
+      DeathImages_16: -3851000389271863056
+      DeathImages_17: -8705494379403971000
+      DeathImages_18: -488164258613328393
+      DeathImages_19: -4594266971495877439
+      DeathImages_2: 2207651419875568134
+      DeathImages_20: -2484269556223580738
+      DeathImages_21: -9114049503782065067
+      DeathImages_22: -1428975776084225763
+      DeathImages_23: 7016824693743215412
+      DeathImages_3: 1972779834662588776
+      DeathImages_4: 718867826646139673
+      DeathImages_5: -4730553707746755480
+      DeathImages_6: -6700277897294459498
+      DeathImages_7: 1515006229115537387
+      DeathImages_8: 1445290661374285113
+      DeathImages_9: -5353401244788993440
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

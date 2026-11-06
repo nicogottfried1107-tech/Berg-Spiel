@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: c11f7c3784b00ad47a3fc8e572da713d
+guid: 4d58dccd549460748a4c25af5e53ee50
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3909565911105635360
-    second: Verunglueckt_0
+      213: -5821351359003086810
+    second: ImagesButtonFinish_0
+  - first:
+      213: 7715559982757884537
+    second: ImagesButtonFinish_1
+  - first:
+      213: 8836752897113326543
+    second: ImagesButtonFinish_2
+  - first:
+      213: 4223989589776741216
+    second: ImagesButtonFinish_3
+  - first:
+      213: 3804450996580182702
+    second: ImagesButtonFinish_4
+  - first:
+      213: -609722096138670741
+    second: ImagesButtonFinish_5
+  - first:
+      213: 6009394571428404279
+    second: ImagesButtonFinish_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,23 +131,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Verunglueckt_0
+      name: ImagesButtonFinish_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 289
-        height: 120
+        x: 18
+        y: 246
+        width: 611
+        height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0eb7292848e6eb9c0800000000000000
-      internalID: -3909565911105635360
+      spriteID: 62032e528c7663fa0800000000000000
+      internalID: -5821351359003086810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImagesButtonFinish_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 610
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0633799f620ae9a30800000000000000
+      internalID: 4223989589776741216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImagesButtonFinish_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 609
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaea8846002cc430800000000000000
+      internalID: 3804450996580182702
       vertices: []
       indices: 
       edges: []
@@ -138,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d13d25e718b24c44ebc3477bff1ce5ff
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +210,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Verunglueckt_0: -3909565911105635360
+      ImagesButtonFinish_0: -5821351359003086810
+      ImagesButtonFinish_1: 7715559982757884537
+      ImagesButtonFinish_2: 8836752897113326543
+      ImagesButtonFinish_3: 4223989589776741216
+      ImagesButtonFinish_4: 3804450996580182702
+      ImagesButtonFinish_5: -609722096138670741
+      ImagesButtonFinish_6: 6009394571428404279
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

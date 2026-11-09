@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 1e0576377b94e7147b92d4c850a1f0e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6608032851199168815
+    second: ButtonSheetPause_0
+  - first:
+      213: 3043947319526497523
+    second: ButtonSheetPause_1
+  - first:
+      213: 373881917339616232
+    second: ButtonSheetPause_2
+  - first:
+      213: 6904556007406186255
+    second: ButtonSheetPause_3
+  - first:
+      213: 442837529355751421
+    second: ButtonSheetPause_4
+  - first:
+      213: 2067019152872694114
+    second: ButtonSheetPause_5
+  - first:
+      213: 1123644310170690668
+    second: ButtonSheetPause_6
+  - first:
+      213: -6252830386752682829
+    second: ButtonSheetPause_7
+  - first:
+      213: 186356710226823054
+    second: ButtonSheetPause_8
+  - first:
+      213: 2731017698292242982
+    second: ButtonSheetPause_9
+  - first:
+      213: -4157777540756614658
+    second: ButtonSheetPause_10
+  - first:
+      213: -6961348886298915552
+    second: ButtonSheetPause_11
+  - first:
+      213: 7302923002506322227
+    second: ButtonSheetPause_12
+  - first:
+      213: -3496308744704268850
+    second: ButtonSheetPause_13
+  - first:
+      213: 4104933663272379326
+    second: ButtonSheetPause_14
+  - first:
+      213: -8312706176343733916
+    second: ButtonSheetPause_15
+  - first:
+      213: -3153263618159359849
+    second: ButtonSheetPause_16
+  - first:
+      213: 1089476227479389296
+    second: ButtonSheetPause_17
+  - first:
+      213: 1114361024849309152
+    second: ButtonSheetPause_18
+  - first:
+      213: -3473821215795437787
+    second: ButtonSheetPause_19
+  - first:
+      213: 5427672088432045113
+    second: ButtonSheetPause_20
+  - first:
+      213: 8606113784396368119
+    second: ButtonSheetPause_21
+  - first:
+      213: -8747343225840872023
+    second: ButtonSheetPause_22
+  - first:
+      213: 8684717703709519166
+    second: ButtonSheetPause_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonSheetPause_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 248
+        width: 873
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2196d70ed274bb50800000000000000
+      internalID: 6608032851199168815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonSheetPause_1
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 231
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc1167a5f54e3a20800000000000000
+      internalID: 3043947319526497523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonSheetPause_2
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 227
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e348f67f9b403500800000000000000
+      internalID: 373881917339616232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonSheetPause_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 231
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261e7eec7f68fac10800000000000000
+      internalID: 2067019152872694114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonSheetPause_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 231
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64ec99fb8cf79f00800000000000000
+      internalID: 1123644310170690668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad1d8049b4f9c6449ae7eb6e3fa2a34a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ButtonSheetPause_0: 6608032851199168815
+      ButtonSheetPause_1: 3043947319526497523
+      ButtonSheetPause_10: -4157777540756614658
+      ButtonSheetPause_11: -6961348886298915552
+      ButtonSheetPause_12: 7302923002506322227
+      ButtonSheetPause_13: -3496308744704268850
+      ButtonSheetPause_14: 4104933663272379326
+      ButtonSheetPause_15: -8312706176343733916
+      ButtonSheetPause_16: -3153263618159359849
+      ButtonSheetPause_17: 1089476227479389296
+      ButtonSheetPause_18: 1114361024849309152
+      ButtonSheetPause_19: -3473821215795437787
+      ButtonSheetPause_2: 373881917339616232
+      ButtonSheetPause_20: 5427672088432045113
+      ButtonSheetPause_21: 8606113784396368119
+      ButtonSheetPause_22: -8747343225840872023
+      ButtonSheetPause_23: 8684717703709519166
+      ButtonSheetPause_3: 6904556007406186255
+      ButtonSheetPause_4: 442837529355751421
+      ButtonSheetPause_5: 2067019152872694114
+      ButtonSheetPause_6: 1123644310170690668
+      ButtonSheetPause_7: -6252830386752682829
+      ButtonSheetPause_8: 186356710226823054
+      ButtonSheetPause_9: 2731017698292242982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

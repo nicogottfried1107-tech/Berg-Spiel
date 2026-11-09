@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: c7f5abf2b3801fb41a149b30f30e8bbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6352903584771999171
+    second: Verschnaufpause_0
+  - first:
+      213: -3541308449852126753
+    second: Verschnaufpause_1
+  - first:
+      213: -5639298442410691879
+    second: Verschnaufpause_2
+  - first:
+      213: -3571280866067293054
+    second: Verschnaufpause_3
+  - first:
+      213: 3090516824814074582
+    second: Verschnaufpause_4
+  - first:
+      213: 8784384640025210393
+    second: Verschnaufpause_5
+  - first:
+      213: 1688909033337277416
+    second: Verschnaufpause_6
+  - first:
+      213: -8530754933520237079
+    second: Verschnaufpause_7
+  - first:
+      213: -5760155276950706284
+    second: Verschnaufpause_8
+  - first:
+      213: -5544834926929573881
+    second: Verschnaufpause_9
+  - first:
+      213: 4756077822216597457
+    second: Verschnaufpause_10
+  - first:
+      213: -1546056168286112869
+    second: Verschnaufpause_11
+  - first:
+      213: 6963543378271199264
+    second: Verschnaufpause_12
+  - first:
+      213: -8552849112392473120
+    second: Verschnaufpause_13
+  - first:
+      213: 73652086525517331
+    second: Verschnaufpause_14
+  - first:
+      213: 4105680560086268990
+    second: Verschnaufpause_15
+  - first:
+      213: -6055284750070399721
+    second: Verschnaufpause_16
+  - first:
+      213: 8907081952078482730
+    second: Verschnaufpause_17
+  - first:
+      213: 4545224340299367056
+    second: Verschnaufpause_18
+  - first:
+      213: 8876017000012518140
+    second: Verschnaufpause_19
+  - first:
+      213: -6186092270101846853
+    second: Verschnaufpause_20
+  - first:
+      213: -474412419675926543
+    second: Verschnaufpause_21
+  - first:
+      213: -4172848206460444149
+    second: Verschnaufpause_22
+  - first:
+      213: -3574992942480040640
+    second: Verschnaufpause_23
+  - first:
+      213: -676958707896172810
+    second: Verschnaufpause_24
+  - first:
+      213: 6290416742437569070
+    second: Verschnaufpause_25
+  - first:
+      213: 1854327931685829225
+    second: Verschnaufpause_26
+  - first:
+      213: -3567742775331927701
+    second: Verschnaufpause_27
+  - first:
+      213: 6497253717401680282
+    second: Verschnaufpause_28
+  - first:
+      213: 9020249498352157790
+    second: Verschnaufpause_29
+  - first:
+      213: 5841816363183032061
+    second: Verschnaufpause_30
+  - first:
+      213: 229122337246363004
+    second: Verschnaufpause_31
+  - first:
+      213: -1863190940211991328
+    second: Verschnaufpause_32
+  - first:
+      213: 263157151358322319
+    second: Verschnaufpause_33
+  - first:
+      213: 90655706880835979
+    second: Verschnaufpause_34
+  - first:
+      213: 3485295682992569494
+    second: Verschnaufpause_35
+  - first:
+      213: 3361936810856437887
+    second: Verschnaufpause_36
+  - first:
+      213: -9045107891852772870
+    second: Verschnaufpause_37
+  - first:
+      213: 3191540523581344568
+    second: Verschnaufpause_38
+  - first:
+      213: -1902424769386363238
+    second: Verschnaufpause_39
+  - first:
+      213: -8819490144795962127
+    second: Verschnaufpause_40
+  - first:
+      213: -7421651054676297974
+    second: Verschnaufpause_41
+  - first:
+      213: -3018779659405473389
+    second: Verschnaufpause_42
+  - first:
+      213: -6264418380837504660
+    second: Verschnaufpause_43
+  - first:
+      213: -2131434396269590759
+    second: Verschnaufpause_44
+  - first:
+      213: -2087492548333429050
+    second: Verschnaufpause_45
+  - first:
+      213: 7895627894953319749
+    second: Verschnaufpause_46
+  - first:
+      213: 9165154084130923444
+    second: Verschnaufpause_47
+  - first:
+      213: -1507330105346247812
+    second: Verschnaufpause_48
+  - first:
+      213: -8112075085998452917
+    second: Verschnaufpause_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Verschnaufpause_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 616
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3afb5949d3f5d7a0800000000000000
+      internalID: -6352903584771999171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 618
+        width: 142
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9897e3abebadec0800000000000000
+      internalID: -3541308449852126753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 579
+        width: 197
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d272b5e1ff2db1b0800000000000000
+      internalID: -5639298442410691879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 580
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cd8e849f2407ec0800000000000000
+      internalID: -3571280866067293054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_4
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 610
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da396b8da8b3ea20800000000000000
+      internalID: 3090516824814074582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 580
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ea917d94768e970800000000000000
+      internalID: 8784384640025210393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_6
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 580
+        width: 131
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb440e41d5307710800000000000000
+      internalID: 1688909033337277416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 596
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed7d99f59bac9980800000000000000
+      internalID: -8530754933520237079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_8
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 610
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e2425b41df00b0800000000000000
+      internalID: -5760155276950706284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_9
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 582
+        width: 213
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080f22030acc03b0800000000000000
+      internalID: -5544834926929573881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_10
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 585
+        width: 102
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df655d949bf00240800000000000000
+      internalID: 4756077822216597457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_11
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 611
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9331863b1e4b8ae0800000000000000
+      internalID: -1546056168286112869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_12
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 580
+        width: 325
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e0efdec973a060800000000000000
+      internalID: 6963543378271199264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 95
+        width: 1591
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5e4561c0d2e4980800000000000000
+      internalID: -8552849112392473120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 505
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed156be2aa50100800000000000000
+      internalID: 73652086525517331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 516
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c3b2177be4af830800000000000000
+      internalID: 4105680560086268990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 162
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db6322a9e47fba0800000000000000
+      internalID: -6055284750070399721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4eeaf7df4c9b70800000000000000
+      internalID: 8907081952078482730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 146
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092c004b471e31f30800000000000000
+      internalID: 4545224340299367056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 144
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf213123f62fd2b70800000000000000
+      internalID: 8876017000012518140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_20
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 170
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb42acc0bd5962aa0800000000000000
+      internalID: -6186092270101846853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_21
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 168
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffce28fa6c8a69f0800000000000000
+      internalID: -474412419675926543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_22
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 162
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02ac483aa01716c0800000000000000
+      internalID: -4172848206460444149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_23
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 128
+        width: 184
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dd2f42cd2136ec0800000000000000
+      internalID: -3574992942480040640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 139
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6febd3054a5fa96f0800000000000000
+      internalID: -676958707896172810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22492ef2bc0c4750800000000000000
+      internalID: 6290416742437569070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 146
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af731ed65ebb910800000000000000
+      internalID: 1854327931685829225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 144
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69cf5a39d4dc7ec0800000000000000
+      internalID: -3567742775331927701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_28
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 144
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99305105d1ea2a50800000000000000
+      internalID: 6497253717401680282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_29
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 145
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e540dae902d5e2d70800000000000000
+      internalID: 9020249498352157790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_30
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 146
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c692f70d421150800000000000000
+      internalID: 5841816363183032061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_31
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 146
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d3da14d810e2300800000000000000
+      internalID: 229122337246363004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_32
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec20f326bd9426e0800000000000000
+      internalID: -1863190940211991328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_33
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 146
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8601dee80ce6a300800000000000000
+      internalID: 263157151358322319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_34
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 146
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b818e7592e2124100800000000000000
+      internalID: 90655706880835979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_35
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c79f135f14e5030800000000000000
+      internalID: 3485295682992569494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_36
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 144
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78586897bff7ae20800000000000000
+      internalID: 3361936810856437887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_37
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 130
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9780f9b42597280800000000000000
+      internalID: -9045107891852772870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_38
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 130
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b845a5231aa4c20800000000000000
+      internalID: 3191540523581344568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_39
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 131
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9642d070ca3995e0800000000000000
+      internalID: -1902424769386363238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_40
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 130
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4d063e070ea9580800000000000000
+      internalID: -8819490144795962127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_41
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 126
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07bd17ffaff00990800000000000000
+      internalID: -7421651054676297974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_42
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39946f9d4e32b16d0800000000000000
+      internalID: -3018779659405473389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_43
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 134
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b0c54ca05019a0800000000000000
+      internalID: -6264418380837504660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_44
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 116
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9174d4c95bf9b62e0800000000000000
+      internalID: -2131434396269590759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_45
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 107
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce9f49569cb703e0800000000000000
+      internalID: -2087492548333429050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_46
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 95
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d9b55dcb7e29d60800000000000000
+      internalID: 7895627894953319749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_47
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 98
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32858941b213f70800000000000000
+      internalID: 9165154084130923444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_48
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 79
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b59f5143e41be0800000000000000
+      internalID: -1507330105346247812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Verschnaufpause_49
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 79
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f04cb50be1c6f80800000000000000
+      internalID: -8112075085998452917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Verschnaufpause_0: -6352903584771999171
+      Verschnaufpause_1: -3541308449852126753
+      Verschnaufpause_10: 4756077822216597457
+      Verschnaufpause_11: -1546056168286112869
+      Verschnaufpause_12: 6963543378271199264
+      Verschnaufpause_13: -8552849112392473120
+      Verschnaufpause_14: 73652086525517331
+      Verschnaufpause_15: 4105680560086268990
+      Verschnaufpause_16: -6055284750070399721
+      Verschnaufpause_17: 8907081952078482730
+      Verschnaufpause_18: 4545224340299367056
+      Verschnaufpause_19: 8876017000012518140
+      Verschnaufpause_2: -5639298442410691879
+      Verschnaufpause_20: -6186092270101846853
+      Verschnaufpause_21: -474412419675926543
+      Verschnaufpause_22: -4172848206460444149
+      Verschnaufpause_23: -3574992942480040640
+      Verschnaufpause_24: -676958707896172810
+      Verschnaufpause_25: 6290416742437569070
+      Verschnaufpause_26: 1854327931685829225
+      Verschnaufpause_27: -3567742775331927701
+      Verschnaufpause_28: 6497253717401680282
+      Verschnaufpause_29: 9020249498352157790
+      Verschnaufpause_3: -3571280866067293054
+      Verschnaufpause_30: 5841816363183032061
+      Verschnaufpause_31: 229122337246363004
+      Verschnaufpause_32: -1863190940211991328
+      Verschnaufpause_33: 263157151358322319
+      Verschnaufpause_34: 90655706880835979
+      Verschnaufpause_35: 3485295682992569494
+      Verschnaufpause_36: 3361936810856437887
+      Verschnaufpause_37: -9045107891852772870
+      Verschnaufpause_38: 3191540523581344568
+      Verschnaufpause_39: -1902424769386363238
+      Verschnaufpause_4: 3090516824814074582
+      Verschnaufpause_40: -8819490144795962127
+      Verschnaufpause_41: -7421651054676297974
+      Verschnaufpause_42: -3018779659405473389
+      Verschnaufpause_43: -6264418380837504660
+      Verschnaufpause_44: -2131434396269590759
+      Verschnaufpause_45: -2087492548333429050
+      Verschnaufpause_46: 7895627894953319749
+      Verschnaufpause_47: 9165154084130923444
+      Verschnaufpause_48: -1507330105346247812
+      Verschnaufpause_49: -8112075085998452917
+      Verschnaufpause_5: 8784384640025210393
+      Verschnaufpause_6: 1688909033337277416
+      Verschnaufpause_7: -8530754933520237079
+      Verschnaufpause_8: -5760155276950706284
+      Verschnaufpause_9: -5544834926929573881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

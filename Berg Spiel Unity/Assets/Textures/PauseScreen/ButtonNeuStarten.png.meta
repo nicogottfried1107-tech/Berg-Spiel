@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 9b47b1473a71c214d8b841bd4d74e76d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4764499458883777994
+    second: ButtonNeuStarten_0
+  - first:
+      213: 432900080508246832
+    second: ButtonNeuStarten_1
+  - first:
+      213: -62927296436273744
+    second: ButtonNeuStarten_2
+  - first:
+      213: 1245712179748084
+    second: ButtonNeuStarten_3
+  - first:
+      213: -2742446680051468629
+    second: ButtonNeuStarten_4
+  - first:
+      213: -7344880939313861025
+    second: ButtonNeuStarten_5
+  - first:
+      213: -1024091910782629632
+    second: ButtonNeuStarten_6
+  - first:
+      213: 2107382712450778975
+    second: ButtonNeuStarten_7
+  - first:
+      213: -1054467001559277834
+    second: ButtonNeuStarten_8
+  - first:
+      213: 5625203477681657563
+    second: ButtonNeuStarten_9
+  - first:
+      213: -8856630797627065791
+    second: ButtonNeuStarten_10
+  - first:
+      213: 8086219638821130333
+    second: ButtonNeuStarten_11
+  - first:
+      213: -883522558717141916
+    second: ButtonNeuStarten_12
+  - first:
+      213: -4435637175310195572
+    second: ButtonNeuStarten_13
+  - first:
+      213: -4066464682810640636
+    second: ButtonNeuStarten_14
+  - first:
+      213: 6434226554234493702
+    second: ButtonNeuStarten_15
+  - first:
+      213: -8689181363707968166
+    second: ButtonNeuStarten_16
+  - first:
+      213: -7020261494936367241
+    second: ButtonNeuStarten_17
+  - first:
+      213: -6993389417629520806
+    second: ButtonNeuStarten_18
+  - first:
+      213: -1101550958046875685
+    second: ButtonNeuStarten_19
+  - first:
+      213: 2840273936003682296
+    second: ButtonNeuStarten_20
+  - first:
+      213: 1261691903041309752
+    second: ButtonNeuStarten_21
+  - first:
+      213: -7789705046539595167
+    second: ButtonNeuStarten_22
+  - first:
+      213: 8385868574079447659
+    second: ButtonNeuStarten_23
+  - first:
+      213: -2335258098566184041
+    second: ButtonNeuStarten_24
+  - first:
+      213: 6677337936604968940
+    second: ButtonNeuStarten_25
+  - first:
+      213: 4312243817327711730
+    second: ButtonNeuStarten_26
+  - first:
+      213: 8972113357843885338
+    second: ButtonNeuStarten_27
+  - first:
+      213: -1917919876893345103
+    second: ButtonNeuStarten_28
+  - first:
+      213: -1877399000952537051
+    second: ButtonNeuStarten_29
+  - first:
+      213: -7611968241220372867
+    second: ButtonNeuStarten_30
+  - first:
+      213: -1083864678837546923
+    second: ButtonNeuStarten_31
+  - first:
+      213: -8158939896128850784
+    second: ButtonNeuStarten_32
+  - first:
+      213: -6823227621113635782
+    second: ButtonNeuStarten_33
+  - first:
+      213: 8102957582887492247
+    second: ButtonNeuStarten_34
+  - first:
+      213: -7861058137857678525
+    second: ButtonNeuStarten_35
+  - first:
+      213: -3255886766947262451
+    second: ButtonNeuStarten_36
+  - first:
+      213: -754282371408037085
+    second: ButtonNeuStarten_37
+  - first:
+      213: 3574946724094774572
+    second: ButtonNeuStarten_38
+  - first:
+      213: -5852880038876843191
+    second: ButtonNeuStarten_39
+  - first:
+      213: 5231270245612959214
+    second: ButtonNeuStarten_40
+  - first:
+      213: -7707709153258794329
+    second: ButtonNeuStarten_41
+  - first:
+      213: 4621644685354743960
+    second: ButtonNeuStarten_42
+  - first:
+      213: 2983108581445277758
+    second: ButtonNeuStarten_43
+  - first:
+      213: -4988742792244133330
+    second: ButtonNeuStarten_44
+  - first:
+      213: -4875252561228774890
+    second: ButtonNeuStarten_45
+  - first:
+      213: -8845533204477334187
+    second: ButtonNeuStarten_46
+  - first:
+      213: 7681483179930268083
+    second: ButtonNeuStarten_47
+  - first:
+      213: 3966805960676739578
+    second: ButtonNeuStarten_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonNeuStarten_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 2172
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a01bc4cf811edb0800000000000000
+      internalID: -4764499458883777994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 682
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b9ee16458f10600800000000000000
+      internalID: 432900080508246832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 683
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd7d3115ff602ff0800000000000000
+      internalID: -62927296436273744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 642
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc57f7f7fc640000800000000000000
+      internalID: 1245712179748084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 659
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6351c464fd0f9d0800000000000000
+      internalID: -2742446680051468629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_5
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 643
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee8a653bdb11a90800000000000000
+      internalID: -7344880939313861025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 650
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009437045d1b9c1f0800000000000000
+      internalID: -1024091910782629632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_7
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 659
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f578d6d596dee3d10800000000000000
+      internalID: 2107382712450778975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_8
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 622
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe10b059d7cd51f0800000000000000
+      internalID: -1054467001559277834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 669
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d18462ccb01e40800000000000000
+      internalID: 5625203477681657563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 644
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a77a8c63de61580800000000000000
+      internalID: -8856630797627065791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 648
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5098bb3be5083070800000000000000
+      internalID: 8086219638821130333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_12
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 644
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cde98f9e81db3f0800000000000000
+      internalID: -883522558717141916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_13
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 653
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c846e157d737172c0800000000000000
+      internalID: -4435637175310195572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_14
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 642
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40776618ae30197c0800000000000000
+      internalID: -4066464682810640636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_15
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 623
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b588906f6fa4950800000000000000
+      internalID: 6434226554234493702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a550e334693d96780800000000000000
+      internalID: -8689181363707968166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_17
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 628
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f07f38d55039e90800000000000000
+      internalID: -7020261494936367241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_18
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 618
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c6732906d72fe90800000000000000
+      internalID: -6993389417629520806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 476
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfef9b6d3186b0f0800000000000000
+      internalID: -1101550958046875685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 474
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffcc4ca81eaa6720800000000000000
+      internalID: 2840273936003682296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c83c0e91e628110800000000000000
+      internalID: 1261691903041309752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 5
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16290f3288865e390800000000000000
+      internalID: -7789705046539595167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62fd13b907906470800000000000000
+      internalID: 8385868574079447659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793cb10d12f779fd0800000000000000
+      internalID: -2335258098566184041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 128
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7349ca97baaac50800000000000000
+      internalID: 6677337936604968940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 144
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f551b497ea28db30800000000000000
+      internalID: 4312243817327711730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_27
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d62da0099538c70800000000000000
+      internalID: 8972113357843885338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_28
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba7c16980e2265e0800000000000000
+      internalID: -1917919876893345103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_29
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 112
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5200d863e8322f5e0800000000000000
+      internalID: -1877399000952537051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_30
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 130
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76318ce63bdc5690800000000000000
+      internalID: -7611968241220372867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 128
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5509b4131d655f0f0800000000000000
+      internalID: -1083864678837546923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_32
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 144
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a43a73746f95ce80800000000000000
+      internalID: -8158939896128850784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 115
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c53ed21a60f41a0800000000000000
+      internalID: -6823227621113635782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 122
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a11168dfc737070800000000000000
+      internalID: 8102957582887492247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_35
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 128
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343ac46f549e7e290800000000000000
+      internalID: -7861058137857678525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_36
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 130
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00a6336c34c0d2d0800000000000000
+      internalID: -3255886766947262451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_37
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 120
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b72e7fd204885f0800000000000000
+      internalID: -754282371408037085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_38
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d8d9cca13cc9130800000000000000
+      internalID: 3574946724094774572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_39
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 123
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94375c15d9466cea0800000000000000
+      internalID: -5852880038876843191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_40
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 130
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5b4d96294399840800000000000000
+      internalID: 5231270245612959214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 115
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a29bffbc57b80590800000000000000
+      internalID: -7707709153258794329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_42
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 107
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89834a4da51632040800000000000000
+      internalID: 4621644685354743960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_43
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 114
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38177b1371266920800000000000000
+      internalID: 2983108581445277758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_44
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 112
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e228f78acdc64cab0800000000000000
+      internalID: -4988742792244133330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_45
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 91
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61245a130af975cb0800000000000000
+      internalID: -4875252561228774890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_46
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 124
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55da43a8a6a5e3580800000000000000
+      internalID: -8845533204477334187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_47
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 112
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1b1eff04c1a9a60800000000000000
+      internalID: 7681483179930268083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonNeuStarten_48
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af90a03110dec0730800000000000000
+      internalID: 3966805960676739578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ButtonNeuStarten_0: -4764499458883777994
+      ButtonNeuStarten_1: 432900080508246832
+      ButtonNeuStarten_10: -8856630797627065791
+      ButtonNeuStarten_11: 8086219638821130333
+      ButtonNeuStarten_12: -883522558717141916
+      ButtonNeuStarten_13: -4435637175310195572
+      ButtonNeuStarten_14: -4066464682810640636
+      ButtonNeuStarten_15: 6434226554234493702
+      ButtonNeuStarten_16: -8689181363707968166
+      ButtonNeuStarten_17: -7020261494936367241
+      ButtonNeuStarten_18: -6993389417629520806
+      ButtonNeuStarten_19: -1101550958046875685
+      ButtonNeuStarten_2: -62927296436273744
+      ButtonNeuStarten_20: 2840273936003682296
+      ButtonNeuStarten_21: 1261691903041309752
+      ButtonNeuStarten_22: -7789705046539595167
+      ButtonNeuStarten_23: 8385868574079447659
+      ButtonNeuStarten_24: -2335258098566184041
+      ButtonNeuStarten_25: 6677337936604968940
+      ButtonNeuStarten_26: 4312243817327711730
+      ButtonNeuStarten_27: 8972113357843885338
+      ButtonNeuStarten_28: -1917919876893345103
+      ButtonNeuStarten_29: -1877399000952537051
+      ButtonNeuStarten_3: 1245712179748084
+      ButtonNeuStarten_30: -7611968241220372867
+      ButtonNeuStarten_31: -1083864678837546923
+      ButtonNeuStarten_32: -8158939896128850784
+      ButtonNeuStarten_33: -6823227621113635782
+      ButtonNeuStarten_34: 8102957582887492247
+      ButtonNeuStarten_35: -7861058137857678525
+      ButtonNeuStarten_36: -3255886766947262451
+      ButtonNeuStarten_37: -754282371408037085
+      ButtonNeuStarten_38: 3574946724094774572
+      ButtonNeuStarten_39: -5852880038876843191
+      ButtonNeuStarten_4: -2742446680051468629
+      ButtonNeuStarten_40: 5231270245612959214
+      ButtonNeuStarten_41: -7707709153258794329
+      ButtonNeuStarten_42: 4621644685354743960
+      ButtonNeuStarten_43: 2983108581445277758
+      ButtonNeuStarten_44: -4988742792244133330
+      ButtonNeuStarten_45: -4875252561228774890
+      ButtonNeuStarten_46: -8845533204477334187
+      ButtonNeuStarten_47: 7681483179930268083
+      ButtonNeuStarten_48: 3966805960676739578
+      ButtonNeuStarten_5: -7344880939313861025
+      ButtonNeuStarten_6: -1024091910782629632
+      ButtonNeuStarten_7: 2107382712450778975
+      ButtonNeuStarten_8: -1054467001559277834
+      ButtonNeuStarten_9: 5625203477681657563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

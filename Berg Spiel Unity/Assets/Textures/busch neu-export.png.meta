@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: c66df61af56c3774c98ec2c223b9735d
+guid: a45ffdfa52a023746901ac47b41f670e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9068489573679863656
-    second: busch neu_0
+      213: -3369744756401378264
+    second: busch neu-export_0
+  - first:
+      213: 5619713029538607142
+    second: busch neu-export_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: busch neu_0
+      name: busch neu-export_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8986a7797c0462280800000000000000
-      internalID: -9068489573679863656
+      spriteID: 82ce5fa6ff24c31d0800000000000000
+      internalID: -3369744756401378264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: busch neu-export_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6207841d93b3dfd40800000000000000
+      internalID: 5619713029538607142
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      busch neu_0: -9068489573679863656
+      busch neu-export_0: -3369744756401378264
+      busch neu-export_1: 5619713029538607142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

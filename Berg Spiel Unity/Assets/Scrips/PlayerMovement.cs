@@ -27,8 +27,11 @@ public class PlayerMovement : MonoBehaviour
 
     private bool hasJumped = false;
 
-    // NEU: Spielersteuerung aktivieren/deaktivieren
+    // Spielersteuerung
     private bool controlsEnabled = true;
+
+    // NEU: Automatischer Gondel-Einstieg
+    private bool enteringGondel = false;
 
     void Start()
     {
@@ -60,20 +63,19 @@ public class PlayerMovement : MonoBehaviour
         );
 
         // Bewegungsrichtung ermitteln
-        // Nach der FinishLine keine Eingaben mehr
         float RichtungX = controlsEnabled
             ? Input.GetAxis("Horizontal")
             : 0f;
 
         // Bewegung
-        if (!controlsEnabled)
+        if (!controlsEnabled && !enteringGondel)
         {
             rb.linearVelocity = new Vector2(
                 0f,
                 rb.linearVelocity.y
             );
         }
-        else if (!isKnockedBack)
+        else if (controlsEnabled && !isKnockedBack)
         {
             rb.linearVelocity = new Vector2(
                 RichtungX * movementForce,
@@ -135,7 +137,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         // Laufanimation
-        if (anim != null)
+        if (anim != null && !enteringGondel)
         {
             bool laeuft =
                 controlsEnabled &&
@@ -145,7 +147,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    // NEU: Spielersteuerung deaktivieren
+    // Spielersteuerung deaktivieren
     public void DisableControls()
     {
         controlsEnabled = false;
@@ -163,6 +165,34 @@ public class PlayerMovement : MonoBehaviour
         }
 
         Debug.Log("Spielersteuerung deaktiviert!");
+    }
+
+    // NEU: Gondel-Einstiegsanimation starten
+    public void StartGondelEntry()
+    {
+        enteringGondel = true;
+        controlsEnabled = false;
+
+        if (anim != null)
+        {
+            anim.SetBool("IsRunning", false);
+            anim.SetBool("IsJumping", false);
+
+            anim.Play("PlayerEnterGondel", 0, 0f);
+        }
+
+        Debug.Log("Gondel-Einstieg gestartet!");
+    }
+
+    // NEU: Gondel-Einstieg beenden
+    public void StopGondelEntry()
+    {
+        enteringGondel = false;
+
+        rb.linearVelocity = new Vector2(
+            0f,
+            rb.linearVelocity.y
+        );
     }
 
     public void BackBounceBush(Transform bush)

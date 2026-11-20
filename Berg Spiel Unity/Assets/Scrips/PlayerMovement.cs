@@ -89,21 +89,13 @@ public class PlayerMovement : MonoBehaviour
             isGrounded &&
             !hasJumped)
         {
-            hasJumped = true;
-
-            rb.linearVelocity = new Vector2(
-                rb.linearVelocity.x,
-                jumpForce
-            );
-
-            if (anim != null)
-            {
-                anim.SetBool("IsJumping", true);
-            }
+            jump();
         }
+        
 
+        
         // Nach dem Landen wieder springen erlauben
-        if (isGrounded && rb.linearVelocity.y <= 0)
+        if (isGrounded)
         {
             hasJumped = false;
         }
@@ -165,6 +157,21 @@ public class PlayerMovement : MonoBehaviour
         }
 
         Debug.Log("Spielersteuerung deaktiviert!");
+    }
+    
+    public void jump()
+    {
+        hasJumped = true;
+
+        rb.linearVelocity = new Vector2(
+            rb.linearVelocity.x,
+            jumpForce
+        );
+
+        if (anim != null)
+        {
+            anim.SetBool("IsJumping", true);
+        }
     }
 
     // NEU: Gondel-Einstiegsanimation starten
